@@ -1,9 +1,8 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
-
-# Date: 
-# Register no.:
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+# Aim: 
+To perform the Exploration of Prompting Techniques for Video Generation
+# Algorithm: 
+Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
@@ -30,17 +29,22 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+# Prompt:
+Develop a modular game engine that enables studios to build games with near-infinite replayability through adaptive narrative systems, AI-generated quests, and evolving world states. Design it as an open framework others can license and customize—position your company as the “Netflix of dynamic games.
+# output:
+https://github.com/user-attachments/assets/56ebc45d-7270-4532-84a6-ba12ed73c660
+# Prompt:
+Imagine embarking on an epic journey where every world is a gateway to new adventures. The core game serves as your entry point, a hub connecting a sprawling multi-universe ecosystem. With each DLC or seasonal pass, you unlock fantastical realms—whether exploring neon-lit cyberpunk cities, mysterious fantasy kingdoms, gritty noir streets, or prehistoric wilderness. Every world tells its own story, yet all threads lead back to a central, evolving meta-narrative that grows and changes with every choice you make
+# Output:
+https://github.com/user-attachments/assets/ce42de3c-61db-4062-ba1f-73276a23df45
 
 
-# Result: The Prompt of the above task executed successfully
 
 
 
 
+# Result: 
+The Prompt of the above task executed successfully
 
 
-
-
-
-# Result:
 
